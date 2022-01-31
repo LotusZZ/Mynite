@@ -1,0 +1,150 @@
+Objects
+     Plane%_GROUPID_0
+     Character_Eva%_GROUPID_1
+     woman_body%_GROUPID_2
+     woman_head%_GROUPID_3
+Plane%_GROUPID_0_Basics
+     NULL
+     Plane%_GROUPID_0
+Plane%_GROUPID_0_Transform
+     8,7881
+     1,8155
+     5,601
+     270
+     0
+     0
+     0,06818667
+     1
+     0,07194464
+     NULL
+     (1.000, 0.061, 0.061, 1.000)
+Plane%_GROUPID_0_Components
+     @!-MeshFilter
+     %!-tag=Finish
+     @!-MeshRenderer
+     %!-subMeshStartIndex=0
+     %!-scaleInLightmap=1
+     %!-stitchLightmapSeams=True
+     %!-castShadows=True
+     %!-motionVectors=True
+     %!-useLightProbes=True
+     %!-enabled=True
+     %!-isVisible=False
+     %!-receiveShadows=True
+     %!-forceRenderingOff=False
+     %!-rendererPriority=0
+     %!-sortingLayerName=Default
+     %!-sortingLayerID=0
+     %!-sortingOrder=0
+     %!-allowOcclusionWhenDynamic=True
+     %!-isPartOfStaticBatch=False
+     %!-lightmapIndex=-1
+     %!-realtimeLightmapIndex=-1
+     %!-tag=Finish
+     @!-MeshCollider
+     %!-convex=False
+     %!-inflateMesh=False
+     %!-skinWidth=0
+     %!-smoothSphereCollisions=True
+     %!-enabled=True
+     %!-isTrigger=False
+     %!-contactOffset=0,01
+     %!-tag=Finish
+Character_Eva%_GROUPID_1_Basics
+     NULL
+     Character_Eva%_GROUPID_1
+Character_Eva%_GROUPID_1_Transform
+     -0,268
+     0,465
+     -2,53
+     0
+     0
+     0
+     1
+     1
+     1
+     NULL
+     NULL
+Character_Eva%_GROUPID_1_Behaviours
+     @!-MyChar
+     %!-MyCharName=Eva
+     %!-MyCharGender=female
+Character_Eva%_GROUPID_1_Components
+     @!-MyChar
+     %!-useGUILayout=True
+     %!-runInEditMode=False
+     %!-enabled=True
+     %!-isActiveAndEnabled=True
+     %!-tag=Finish
+woman_body%_GROUPID_2_Basics
+     NULL
+     woman_body%_GROUPID_2
+woman_body%_GROUPID_2_Transform
+     -0,2441713
+     0,0299159
+     -1,668153
+     270
+     89,99982
+     0
+     1
+     1
+     1
+     Woman1
+     NULL
+woman_body%_GROUPID_2_Components
+     @!-SkinnedMeshRenderer
+     %!-updateWhenOffscreen=False
+     %!-forceMatrixRecalculationPerRender=False
+     %!-skinnedMotionVectors=True
+     %!-castShadows=True
+     %!-motionVectors=True
+     %!-useLightProbes=True
+     %!-enabled=True
+     %!-isVisible=True
+     %!-receiveShadows=True
+     %!-forceRenderingOff=False
+     %!-rendererPriority=0
+     %!-sortingLayerName=Default
+     %!-sortingLayerID=0
+     %!-sortingOrder=0
+     %!-allowOcclusionWhenDynamic=True
+     %!-isPartOfStaticBatch=False
+     %!-lightmapIndex=-1
+     %!-realtimeLightmapIndex=-1
+     %!-tag=Finish
+woman_head%_GROUPID_3_Basics
+     NULL
+     woman_head%_GROUPID_3
+woman_head%_GROUPID_3_Transform
+     -0,2441713
+     0,0299159
+     -1,668153
+     270
+     89,99982
+     0
+     1
+     1
+     1
+     Woman1
+     NULL
+woman_head%_GROUPID_3_Components
+     @!-SkinnedMeshRenderer
+     %!-updateWhenOffscreen=False
+     %!-forceMatrixRecalculationPerRender=False
+     %!-skinnedMotionVectors=True
+     %!-castShadows=True
+     %!-motionVectors=True
+     %!-useLightProbes=True
+     %!-enabled=True
+     %!-isVisible=True
+     %!-receiveShadows=True
+     %!-forceRenderingOff=False
+     %!-rendererPriority=0
+     %!-sortingLayerName=Default
+     %!-sortingLayerID=0
+     %!-sortingOrder=0
+     %!-allowOcclusionWhenDynamic=True
+     %!-isPartOfStaticBatch=False
+     %!-lightmapIndex=-1
+     %!-realtimeLightmapIndex=-1
+     %!-tag=Finish
